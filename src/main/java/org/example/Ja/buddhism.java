@@ -1,17 +1,15 @@
-package org.example;
+package org.example.Ja;
 
 import java.util.Scanner;
 
-public class add {
+public class buddhism {
     public static void main(String[] args) {
-
         Scanner sc = new Scanner(System.in);
 
         int a = sc.nextInt();
-        int b = sc.nextInt();
 
-        int c = a+b;
+        int b = a-543;
 
-        System.out.println(c);
+        System.out.println(b);
     }
 }

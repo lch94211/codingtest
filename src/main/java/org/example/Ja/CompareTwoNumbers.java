@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Ja;
 
 import java.util.Scanner;
 

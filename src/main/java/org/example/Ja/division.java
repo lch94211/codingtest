@@ -1,16 +1,15 @@
-package org.example;
+package org.example.Ja;
 
 import java.util.Scanner;
 
-public class Minus {
+public class division {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        int a = sc.nextInt();
-        int b = sc.nextInt();
+        double a = sc.nextDouble();
+        double b = sc.nextDouble();
 
-        int result = a-b;
-
+        double result = a/b;
         System.out.println(result);
     }
 }
